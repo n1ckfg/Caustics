@@ -1,4 +1,4 @@
-// by Xavier Snelgrove | wxs.ca
+// by Xavier Snelgrove | http://wxs.ca/caustics/
 
 long res = 10000000;
 CastManager cm;
